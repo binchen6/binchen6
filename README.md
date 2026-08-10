@@ -1,6 +1,6 @@
 <!-- 顶部动态欢迎 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9AFE&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+binchen;行万里路%2C+写千行代码;用AI点亮创意的火花" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9AFE&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+binchen;%E8%A1%8C%E4%B8%87%E9%87%8C%E8%B7%AF%2C+%E5%86%99%E5%8D%83%E8%A1%8C%E4%BB%A3%E7%A0%81;%E7%94%A8AI%E7%82%B9%E4%BA%AE%E5%88%9B%E6%84%8F%E7%9A%84%E7%81%AB%E8%8A%B1" alt="Typing SVG" />
 </p>
 
 ---
