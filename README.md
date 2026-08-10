@@ -43,14 +43,17 @@
 
 ---
 
-## 📊 GitHub 统计
+## 📊 我的足迹
 
+<!-- 贡献图：基于 GitHub 官方数据，稳定不裂图 -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binchen6&theme=tokyonight&hide_border=true" />
+  <img src="https://ghchart.rshah.org/2E9AFE/binchen6" alt="binchen6 的 GitHub 贡献图" />
 </p>
+
+<!-- 统计卡片：备用域名 + 中文 + 隐藏博客干扰语言 -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=binchen6&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=binchen6&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=binchen6&show_icons=true&theme=tokyonight&hide_border=true&locale=cn&cache_seconds=1800" alt="GitHub 统计" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=binchen6&layout=compact&theme=tokyonight&hide_border=true&locale=cn&cache_seconds=1800&hide=javascript,typescript" alt="常用语言" />
 </p>
 
 ---
@@ -69,18 +72,3 @@
 <p align="center">
   <i>「君子生非异也，善假于物也。」</i>
 </p>
-
-<!--
-**binchen6/binchen6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
