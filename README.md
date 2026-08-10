@@ -45,16 +45,25 @@
 
 ## 📊 我的足迹
 
-<!-- 贡献图：基于 GitHub 官方数据，稳定不裂图 -->
+<!-- 贡献图：基于 GitHub 官方提交数据，目前最稳定 -->
 <p align="center">
   <img src="https://ghchart.rshah.org/2E9AFE/binchen6" alt="binchen6 的 GitHub 贡献图" />
 </p>
 
-<!-- 统计卡片：备用域名 + 中文 + 隐藏博客干扰语言 -->
+### 📈 数据看板
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=binchen6&show_icons=true&theme=tokyonight&hide_border=true&locale=cn&cache_seconds=1800" alt="GitHub 统计" />
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=binchen6&layout=compact&theme=tokyonight&hide_border=true&locale=cn&cache_seconds=1800&hide=javascript,typescript" alt="常用语言" />
+
+| 🐍 主力语言 | ☕ 熟练技能 | 🔧 基础储备 | 🤖 特别能力 |
+|:---:|:---:|:---:|:---:|
+| **Python** | **Java** | **C++** | **AI 辅助开发** |
+| 自动化脚本 / 数据分析 | 后端开发 / 面向对象 | 语法与基础算法 | 用 AI 实现超出现有能力的创意 |
+
 </p>
+
+> 🎯 **当前状态**：在校大学生，持续探索技术与生活  
+> 📝 **输出阵地**：[cryoconite.cn](https://www.cryoconite.cn/)  
+> 💡 **座右铭**：君子生非异也，善假于物也
 
 ---
 
@@ -65,10 +74,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/binchen6/count.svg" alt="Visitor Count" />
-</p>
+<div align="center">
 
-<p align="center">
-  <i>「君子生非异也，善假于物也。」</i>
-</p>
+*「君子生非异也，善假于物也。」*
+
+</div>
