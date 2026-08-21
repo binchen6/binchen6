@@ -25,13 +25,6 @@
 
 `Python` `TypeScript` `Java` `C` `Next.js` `Cloudflare` `Tkinter/Win32` `JSP/Servlet` `MySQL`
 
-### 数据
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=binchen6&show_icons=true&hide_title=true&bg_color=f7f3ea&title_color=b3352b&text_color=3d3629&icon_color=b8933f&border_color=cfc8b8" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binchen6&layout=compact&bg_color=f7f3ea&title_color=b3352b&text_color=3d3629&border_color=cfc8b8" alt="Top langs" />
-</p>
-
 ---
 
 <p align="center"><sub>君子生非异也，善假于物也。</sub></p>
