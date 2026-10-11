@@ -16,7 +16,7 @@
 
 | 项目 | 说明 | 传送门 |
 |:---|:---|:---|
-| **CryoClaw** | 高效、易用、纯净的 OpenClaw 桌面客户端。一分钟装好，即刻开聊 | [repo](https://github.com/binchen6/CryoClaw) · [产品页](https://cryoconite.cn/CryClaw) |
+| **CryoClaw** | 高效、易用、纯净的 OpenClaw 桌面客户端。一分钟装好，即刻开聊 | [repo](https://github.com/binchen6/CryoClaw) · [产品页](https://cryoconite.cn/CryoClaw) |
 | **尘墨博客** | Next.js + Cloudflare Pages + D1，自研「墨卷」设计系统的全栈小站 | [repo](https://github.com/binchen6/binchen-blog) · [站点](https://cryoconite.cn) |
 | **第七频率** | 网页视觉小说：218 → 65 文件重构，QA 评级 A | [repo](https://github.com/binchen6/project-seventh-frequency) |
 | **小明连点器** | Windows 桌面自动化：连点 / 配置方案 / 托盘常驻，单文件 exe | [repo](https://github.com/binchen6/autoclicker) · [下载](https://github.com/binchen6/autoclicker/releases) |
